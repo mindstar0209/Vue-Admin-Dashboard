@@ -17,7 +17,7 @@ git clone https://github.com/mindstar0209/Vue-Admin-Dashboard.git
 2. Install packages
 
 ```
-npm
+npm install
 ```
 
 3. Run project
